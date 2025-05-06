@@ -1,5 +1,3 @@
-package android
-
 group 'xyz.canardoux.fluttersound'
 version '9.28.0'
 
